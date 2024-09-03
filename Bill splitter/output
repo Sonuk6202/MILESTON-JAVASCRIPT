@@ -1,0 +1,6 @@
+Output Example:
+If you enter three dish costs as 15.99, 23.49, and 10.00 and set the number of people to 3, clicking "Calculate Bill" will display:
+bash
+Copy code
+Total Bill: $49.48
+Bill Per Person: $16.49
